@@ -1,0 +1,21 @@
+name: imcm
+channels:
+  - conda-forge
+dependencies:
+  - notebook
+  - scipy
+  - pandas
+  - matplotlib
+  - plotly
+  - nb_conda_kernels
+  - ipykernel
+  - jupyterlab
+  - seaborn
+  - python=3.8
+  - pynvim
+  - neovim
+  - numpy
+  - flake8
+  - black
+  - scikit-learn
+prefix: /Users/benjaminshih/miniforge3/envs/imcm
