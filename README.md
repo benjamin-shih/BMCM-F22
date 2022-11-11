@@ -2,7 +2,7 @@
 
 Our submission and code for the BMCM 2022
 
-### Quick Start
+### Quick Start :electric_plug:
 
 ```
 #Install environment requirements
