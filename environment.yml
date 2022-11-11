@@ -18,4 +18,3 @@ dependencies:
   - flake8
   - black
   - scikit-learn
-prefix: /Users/benjaminshih/miniforge3/envs/imcm
