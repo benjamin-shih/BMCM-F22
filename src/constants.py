@@ -9,4 +9,4 @@ FIG_PATH = "../images/"
 sc = lambda df, x, y: plt.scatter(df[x], df[y])
 
 # savefig lambda
-sf = lambda name: plt.savefig(FIG_PATH + name)
+sf = lambda name: plt.savefig(FIG_PATH + name, bbox_inches="tight")
